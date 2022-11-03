@@ -24,7 +24,7 @@ driver
   });*/
 
 
-     const CubestoreDriver = require('@cubejs-backend/cubestore-driver');
+    /* const CubestoreDriver = require('@cubejs-backend/cubestore-driver');
      const driver = new CubestoreDriver({
        url: 'ws://localhost-1-2:36bfb5b7eac5775d619a32c62ca53b67a6fec6b2d8dde719dc206b9b9b448bf4@host.docker.internal:3030/ws',
      });
@@ -32,7 +32,7 @@ driver
     setInterval(
       (driver) => {
         driver
-          .query('/* test */ SHOW TABLES')
+          .query('SHOW TABLES')
           .then((data) => {
             console.log('datadata', data);
           })
@@ -42,4 +42,4 @@ driver
       },
       10000,
       driver
-    );
+    );*/
