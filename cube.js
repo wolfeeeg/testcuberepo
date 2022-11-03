@@ -5,6 +5,7 @@
 // enabled for your account.  You are still allowed to require
 // @cubejs-backend/*-driver packages.fdsf22fewfew
 // new test
+// test2
 
 module.exports = {
 };
