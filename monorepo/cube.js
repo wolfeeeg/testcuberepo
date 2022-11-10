@@ -6,5 +6,7 @@
 // myyy fds fds fds f
 //dsadasd
 
+const jwt = require('jsonwebtoken');
+
 module.exports = {
 };
