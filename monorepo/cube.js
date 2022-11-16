@@ -3,11 +3,10 @@
 // enabled for your account.  You are still allowed to require
 // @cubejs-backend/*-driver packages.fdsf22fewfew
 // new test
-// myyy fds fds fds f
-//dsadasd
-//tyertsdasfsd fsd fsd
+// myyy fds fds fds f gdf
+//dsadasd gfdg df g dfs gdfg
 
-const jwt = require('jsonwebtoken');
+const h3 = require("jsonwebtoken");
 
 module.exports = {
 };
