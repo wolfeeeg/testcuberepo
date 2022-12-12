@@ -4,6 +4,8 @@
 // @cubejs-backend/*-driver packages.fdsf22fewfew
 // mainChanged2
 
+const NodeCache = require('node-cache');
+
 const h3 = require("jsonwebtoken");
 
 module.exports = {

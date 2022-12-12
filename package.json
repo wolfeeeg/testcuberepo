@@ -6,5 +6,8 @@
     "dev": "cubejs-server"
   },
   "template": "docker",
-  "templateVersion": "0.28.19"
+  "templateVersion": "0.28.19",
+  "dependencies": {
+    "node-cache": "5.1.2"
+  }
 }
